@@ -1,7 +1,10 @@
-## Hi there 👋
-
-
-**CallmeOrange/CallmeOrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi，Welcome to my open source world! 👋
+ 
+- 🤔🌱 Record their own code points.
+- 👯 Learn to reference the code style of the technical gurus.
+- 💬 Looking forward to the technical explanation of the gods.
+<!--
+**callmeorange/callmeorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
